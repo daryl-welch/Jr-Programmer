@@ -14,5 +14,7 @@ public class Base : Building
     private void Awake()
     {
         Instance = this;
-    }
+    }   // end Awake
+
+
 }
